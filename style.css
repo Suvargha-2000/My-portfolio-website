@@ -103,20 +103,20 @@ body{
 */
 
 .table1{
-	/*width: 25vw;
+	width: 25vw;
 	height : 100%;
     border-spacing: 1%;
-    padding: 1%;*/
+    padding: 1%;
     font-size: 100%;
     background-color: rgba(25,29,54,0.7);
     opacity: 0.5;
     transition: 250ms ease;
 
 }
-.experience{
+/*.experience{
 	display: flex;
 	justify-content: space-evenly;
-}
+}*/
 
 .table1:hover{
 	opacity: 1;
@@ -293,3 +293,4 @@ body{
 	height: 180%;
 }
 */
+
